@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "EventHubConfigConnectionString": "Endpoint=sb://agasti-eventhubnamespace.servicebus.windows.net/;SharedAccessKeyName=SAS_Streamdemo1;SharedAccessKey=YWozxLLeQ25mrpO4w/kUBSdVRPXGbVeEYymgzRBXJg8=;EntityPath=streamdemo1",
+    "EventHubName": "streamdemo1"
+  }
+}
